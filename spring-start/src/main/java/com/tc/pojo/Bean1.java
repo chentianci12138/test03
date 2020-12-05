@@ -5,6 +5,7 @@ import java.util.Date;
 public class Bean1 {
     private Integer id;
     private String name;
+    private String aa;
     private float price;
     private String pic;
     private Date createtime;
